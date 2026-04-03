@@ -1,6 +1,6 @@
-if((/^(Win|Mac)/i.test(navigator.platform)||!/mobile|Android|phone|iPhone|iPod|ios|iPad/i.test(navigator.userAgent))&&!localStorage.idf){
-	window.location = 'http://www.qq.com/babygohome/?pgv_ref=404';
-}
+//if((/^(Win|Mac)/i.test(navigator.platform)||!/mobile|Android|phone|iPhone|iPod|ios|iPad/i.test(navigator.userAgent))&&!localStorage.idf){
+//	window.location = 'http://www.qq.com/babygohome/?pgv_ref=404';
+//}
 /*
  * 加密工具已经升级了一个版本，目前为 jsjiami.com.v5 ，主要加强了算法，以及防破解【绝对不可逆】配置，耶稣也无法100%还原，我说的。;
  * 已经打算把这个工具基础功能一直免费下去。还希望支持我。
